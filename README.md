@@ -34,6 +34,5 @@ swatch.justData(obj, size, function(array) {
 ```
 
 ## License
-swatch.js &copy; 2012 Andy Willis
-
+swatch.js &copy; 2012 Andy Willis  
 Licensed under the MIT license: http://www.opensource.org/licenses/mit-license.php
