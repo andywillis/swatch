@@ -1,0 +1,22 @@
+{
+  "name": "swatch",
+  "main": "swatch.js",
+	"version": "0.1",
+  "description": "Creates ASE files from arrays of RGB data.",
+  "keywords": [
+    "swatch",
+    "ase",
+		"rgb"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/andywillis/node_modules.git"
+  },
+  "author": {
+    "name": "Andy Willis",
+    "email": "awillis@lavabit.com"
+  },
+  "engines": {
+    "node": ">= 0.5.0"
+  }
+}
